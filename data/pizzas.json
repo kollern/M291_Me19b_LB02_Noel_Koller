@@ -1,0 +1,9 @@
+[
+  {"name":"Margherita", "ingredients":"Tomaten, Mozzarella, Oregano", "price":15.00},
+  {"name":"Napoli", "ingredients":"Tomaten, Mozzarella, Sardellen, Kapern", "price":16.00},
+  {"name":"Prosciutto", "ingredients":"Tomaten, Mozzarella, Schinken", "price":16.50},
+  {"name":"Tonno", "ingredients":"Tomaten, Mozzarella, Thon, Zwiebeln", "price":17.50},
+  {"name":"Hawaii", "ingredients":"Tomaten, Mozzarella, Ananas, Schinken", "price":18.50},
+  {"name":"Quattro Stagioni", "ingredients":"Tomaten, Mozzarella, Champignons, Schinken, Peperoni, Artischocken", "price":19.00},
+  {"name":"Padrone", "ingredients":"Tomaten, Mozzarella, Kalbfleisch, Zwiebeln", "price":20.00}
+]
